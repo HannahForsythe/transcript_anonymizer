@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Chilindrina Target_Child, FAT Ramón Father
+@ID:	spa|CHILEMEX|CHI|||||Target_Child|||
+@ID:	spa|CHILEMEX|FAT|||||Father|||
+@ID:	spa|CHILEMEX|SIS|||||Sister|||
+@Date:	25-APR-2020
+@Location:	Michigan
+@Transcriber:	Bety la fea
+*FAT:	oye Chilindrina, a_ver .
+*FAT:	y cuál otro te gusta ?
+*CHI:	el, el Lobo_fedoz [: Lobo_Feroz] .
+*CHI:	no, no, no !
+*FAT:	no te gusta más Pinocho ?
+*CHI:	no, &pino, no .
+*FAT:	Pinocho no ?
+*CHI:	no .
+%com:	Don Ramón gives up and the recording ends .
+@End
